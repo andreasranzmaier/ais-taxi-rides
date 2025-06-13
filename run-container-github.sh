@@ -1,6 +1,6 @@
 #!/bin/sh
 
-USERNAME=$1
+USERNAME=$(echo "$1" | tr '[:upper:]' '[:lower:]')
 VERSION=$2
 DATA_DIR=$3
 DATE=$4

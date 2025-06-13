@@ -1,6 +1,5 @@
 name: Build
 
-# trigger instructions
 on:
   push:
     branches:
