@@ -6,21 +6,21 @@ build-backend = "setuptools.build_meta"
 name = "ais-dev2il-mlops-taxi-rides"
 version = "1.0.0"
 requires-python = ">=3.13.0"
-dependencies = [ # dependencies for runtime
+dependencies = [
     "scikit-learn==1.6.1",
     "pandas==2.2.3",
     "pyarrow==19.0.1",
     "fastparquet==2024.11.0",
-    "matplotlib==3.10.1", 
-    "click"
+    "matplotlib==3.10.1",
+    "click==8.1.8"
 ]
 
 [project.optional-dependencies]
-dev = [ # only for development
+dev = [
     "ipykernel==6.29.5",
     "notebook==7.3.3"
 ]
-test = [ # just for testing
+test = [
     "pytest==8.3.5"
 ]
 
