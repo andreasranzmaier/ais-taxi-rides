@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aranz/repos/ais-taxi-rides/mlruns/799588976982272623/2801362cfe394634b499036b6464926a/artifacts
+end_time: 1751008770112
+entry_point_name: ''
+experiment_id: '799588976982272623'
+lifecycle_stage: active
+run_id: 2801362cfe394634b499036b6464926a
+run_name: amusing-bug-862
+run_uuid: 2801362cfe394634b499036b6464926a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751008745727
+status: 3
+tags: []
+user_id: aranz

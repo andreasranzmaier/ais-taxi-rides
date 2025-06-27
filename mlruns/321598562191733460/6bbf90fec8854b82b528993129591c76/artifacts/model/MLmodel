@@ -1,0 +1,28 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 2.22.0
+model_size_bytes: 3225700
+model_uuid: def712017bfe46b5988736c92480f67c
+prompts: null
+run_id: 6bbf90fec8854b82b528993129591c76
+signature:
+  inputs: '[{"type": "double", "name": "ride_time", "required": true}, {"type": "double",
+    "name": "trip_distance", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "bool", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-06-27 07:14:00.016133'

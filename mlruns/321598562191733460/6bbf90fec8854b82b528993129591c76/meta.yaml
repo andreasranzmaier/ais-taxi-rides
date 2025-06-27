@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aranz/repos/ais-taxi-rides/mlruns/321598562191733460/6bbf90fec8854b82b528993129591c76/artifacts
+end_time: 1751008442711
+entry_point_name: ''
+experiment_id: '321598562191733460'
+lifecycle_stage: active
+run_id: 6bbf90fec8854b82b528993129591c76
+run_name: dapper-cat-13
+run_uuid: 6bbf90fec8854b82b528993129591c76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751008419042
+status: 3
+tags: []
+user_id: aranz

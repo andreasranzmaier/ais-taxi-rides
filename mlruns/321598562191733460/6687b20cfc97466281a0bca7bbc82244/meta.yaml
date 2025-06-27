@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aranz/repos/ais-taxi-rides/mlruns/321598562191733460/6687b20cfc97466281a0bca7bbc82244/artifacts
+end_time: 1751007111665
+entry_point_name: ''
+experiment_id: '321598562191733460'
+lifecycle_stage: active
+run_id: 6687b20cfc97466281a0bca7bbc82244
+run_name: stylish-snipe-237
+run_uuid: 6687b20cfc97466281a0bca7bbc82244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751007087380
+status: 3
+tags: []
+user_id: aranz
